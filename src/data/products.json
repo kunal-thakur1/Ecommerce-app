@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Gaming Keyboard",
+    "price": 200,
+    "categoryId": "1",
+    "delivery": true,
+    "image": "/assets/keyboard1.jpeg"
+  },
+  {
+    "id": "1",
+    "name": "Wired Keyboard",
+    "price": 80,
+    "categoryId": "1",
+    "delivery": false,
+    "image": "/assets/keyboard2.jpeg"
+  },
+  {
+    "id": "1",
+    "name": "Wireless Keyboard",
+    "price": 120,
+    "categoryId": "1",
+    "delivery": false,
+    "image": "/assets/keyboard3.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Gaming Headphones",
+    "price": 400,
+    "categoryId": "2",
+    "delivery": true,
+    "image": "/assets/headphones2.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "wired Headphones",
+    "price": 200,
+    "categoryId": "2",
+    "delivery": true,
+    "image": "/assets/headphones1.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Gaming Headphones",
+    "price": 140,
+    "categoryId": "2",
+    "delivery": true,
+    "image": "/assets/headphones3.jpeg"
+  }
+]

@@ -1,0 +1,22 @@
+.categories-page {
+  text-align: center;
+}
+
+.category-list {
+  list-style: none;
+  padding: 0;
+}
+
+.category-list li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.category-list a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.category-list a:hover {
+  text-decoration: underline;
+}
